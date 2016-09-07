@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+    <string name="loantxt">Amount</string>
+    <string name="yearstxt">Years</string>
+    <string name="interesttxt">Interest</string>
+    <string name="calcbtn">Calculate</string>
+    <string name="clearbtn">Clear</string>
+</resources>
